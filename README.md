@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WillianHora
 - 👀 I’m interested in HTML5,JavaScript,Java,Pyhton,C
-- 🌱 I’m currently learning Logic
+- 🌱 I’m currently learning logic
 - 💞️ I’m looking to collaborate on development code
 - 📫 How to reach me: @willian_hora in instagram
 
