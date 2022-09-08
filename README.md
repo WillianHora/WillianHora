@@ -1,14 +1,9 @@
-- 👋 Hi, I’m @WillianHora
-- 👀 I’m interested in HTML ; JavaScript ; CSS
-- 🌱 I’m currently learning logic
-- 💞️ I’m looking to collaborate on codes developments
-- 📫 How to reach me: @willian_hora in instagram
+<h1>Oi, Eu sou Willian Hora</h1>
+<p><b>-📝Iniciando na área de desenvolvimento tecnologico</b></p>
+<p><b>-🖥1ª Semestre de Análise e desenvolvimento de sistemas</b></p>
 
-<!---
-WillianHora/WillianHora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
-
-
+<div align="center">
+  <a href="https://github.com/WillianHora/WillianHora">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillianHora&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianHora&layout=compact&langs_count=7&theme=default"/>
+</div>
