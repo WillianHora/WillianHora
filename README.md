@@ -8,3 +8,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianHora&layout=compact&langs_count=7&theme=kacho_ga"/>
 </div>
 <img src ="https://www.shareicon.net/download/2015/09/24/106438_man.ico" alt"">
+  <img src ="https://www.shareicon.net/download/2015/09/24/106438_man.ico" alt"">
+   <img src ="https://www.shareicon.net/download/2015/09/24/106438_man.ico" alt"">
