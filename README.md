@@ -6,4 +6,4 @@
 </div>
 
 
-<h1 style="color:blue;>TITULO TESTE</h1>
+<h1>TITULO TESTE</h1>
