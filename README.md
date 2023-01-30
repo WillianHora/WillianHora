@@ -1,5 +1,5 @@
 <h1>Oi, Eu sou Willian Hora</h1> 
-<p><b>-📝Estudando Front-end</b></p>
+<p><b>-📝Front-end</b></p>
 <p><b>-🖥1ª Semestre de Análise e desenvolvimento de sistemas</b></p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianHora&layout=compact&langs_count=7&theme=dark"/>
