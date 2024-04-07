@@ -1,6 +1,6 @@
 <h1>Oi, Eu sou Willian Hora</h1> 
 <p><b>-Buscando cada dia subir um degrau na escada do conhecimento</b></p>
-<p><b>-🖥3ª Período em desenvolvimento de sistemas</b></p>
+
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillianHora&layout=compact&langs_count=7&theme=dark"/>
 
