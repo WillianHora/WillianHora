@@ -5,9 +5,8 @@
 Sou Suporte de Redes e infraestrutura
 
 - 🔭 Atualmente estou trabalhando na IXCsoft
-- 🌱 Estou aprendendo Ansible, Banco de dados, Python
+- 🌱 Estou aprendendo Ansible, Banco de dados, Python...
 - 💬 Pergunte-me sobre Redes, Sistemas em Kernel Linux
-- 📫 Meu e-mail: wrsantos2002@gmail.com
 
 ---
 
