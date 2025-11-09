@@ -39,11 +39,11 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
 <p align="center">
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api?username=willianhora&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-        alt="Estatísticas do GitHub de [Seu Nome]" />
+        alt="Estatísticas do GitHub de Willian hora"/>
 
     <img height="180em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianhora&layout=compact&langs_count=7&theme=dracula"
-        alt="Linguagens mais usadas por [Seu Nome]" />
+        alt="Linguagens mais usadas por Willian Hora"/>
 </p>
 
 ---
