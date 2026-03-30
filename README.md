@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-Sou Suporte de Redes e infraestrutura
+Analista de redes e infraestrutura
 
 - 🔭 Atualmente estou trabalhando na IXCsoft
 - 🌱 Estou aprendendo Ansible, Banco de dados, Python...
