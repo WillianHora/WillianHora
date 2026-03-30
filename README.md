@@ -27,9 +27,6 @@ Aqui estão algumas das tecnologias com as quais eu trabalho:
     <a href="https://www.python.org/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     </a>
-    <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-    </a>
 </p>
 
 ---
